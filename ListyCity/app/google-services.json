@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1095211996644",
+    "project_id": "lab-05-borbon",
+    "storage_bucket": "lab-05-borbon.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095211996644:android:d8ee360f12ae679419a3f1",
+        "android_client_info": {
+          "package_name": "com.example.listycity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZLa1zm5oyqY1AMjj_UalbmrcGux_CN5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
